@@ -1,0 +1,280 @@
+Uri: https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1021710&theme=light&period=daily&t=1759430857918
+File Name: D:\www.everyday.new\widgets\embed-image\v1\top-post-badge.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everyday.new/
+File Name: D:\www.everyday.new\index-1.htm
+Content Type: text/html
+
+Uri: https://www.everyday.new/?ref=producthunt
+File Name: D:\www.everyday.new\index.htm
+Content Type: text/html
+
+Uri: https://www.everyday.new/favicon.ico
+File Name: D:\www.everyday.new\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.everyday.new/images/logo/full-dark.svg
+File Name: D:\www.everyday.new\images\logo\full-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everyday.new/images/logo/full-light.svg
+File Name: D:\www.everyday.new\images\logo\full-light.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everyday.new/manifest.json
+File Name: D:\www.everyday.new\manifest.json
+Content Type: application/json
+
+Uri: https://www.everyday.new/register
+File Name: D:\www.everyday.new\register.html
+Content Type: text/html
+
+Uri: https://www.everyday.new/_next/static/chunks/0133708f-7e8bf6d4b3053039.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\0133708f-7e8bf6d4b3053039.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/2337-db79f39ed38a03e9.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\2337-db79f39ed38a03e9.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/2726-6781e44da7fa50d9.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\2726-6781e44da7fa50d9.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/3434-e29adee786f48b15.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\3434-e29adee786f48b15.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/3496-046d1cb3712b29a4.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\3496-046d1cb3712b29a4.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/43c096f9-c2003ada22f90d36.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\43c096f9-c2003ada22f90d36.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/45233be0-3e740207eccb8c7d.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\45233be0-3e740207eccb8c7d.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/4725-9904fb651fd279b6.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\4725-9904fb651fd279b6.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/4752-13b66ff5476d4de0.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\4752-13b66ff5476d4de0.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/6280-ad4c6b3332691415.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\6280-ad4c6b3332691415.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/6283-df1460211eda4276.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\6283-df1460211eda4276.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/8701-6cd394f503b375d1.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\8701-6cd394f503b375d1.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/8990-34147085989d24df.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\8990-34147085989d24df.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/9308-2c5cbcfe2c6ae447.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\9308-2c5cbcfe2c6ae447.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/9572-c2939d99c33ac92c.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\9572-c2939d99c33ac92c.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/9765-c24a73c7877070b2.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\9765-c24a73c7877070b2.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/9947-079cdf0717e1b703.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\9947-079cdf0717e1b703.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/a2596e2e-4464f71430d3f753.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\a2596e2e-4464f71430d3f753.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/app/(auth)/register/page-d2b13b7a554797cd.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\app\(auth)\register\page-d2b13b7a554797cd.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/app/layout-1534749eab9c323b.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\app\layout-1534749eab9c323b.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/app/page-eb2cd8c4b43164db.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\app\page-eb2cd8c4b43164db.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/main-app-a692226b909eaf31.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\main-app-a692226b909eaf31.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/chunks/webpack-0e8a5f8883523a02.js?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\chunks\webpack-0e8a5f8883523a02.js
+Content Type: application/javascript
+
+Uri: https://www.everyday.new/_next/static/css/921e094697ddf88b.css?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\css\921e094697ddf88b.css
+Content Type: text/css
+
+Uri: https://www.everyday.new/_next/static/css/ad3dc0103846ce3c.css?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\css\ad3dc0103846ce3c.css
+Content Type: text/css
+
+Uri: https://www.everyday.new/_next/static/css/b5ad97e42fc50867.css?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\css\b5ad97e42fc50867.css
+Content Type: text/css
+
+Uri: https://www.everyday.new/_next/static/media/02e59a9ca6b2edc4-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\02e59a9ca6b2edc4-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/0865393adacd2d69-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\0865393adacd2d69-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/0dc699fbe7653b1a-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\0dc699fbe7653b1a-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/117ba59cacf89018-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\117ba59cacf89018-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/1817f171a3e9e987-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\1817f171a3e9e987-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/21f5c3b87be0d9d8-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\21f5c3b87be0d9d8-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/2d8d13238cddc4f6-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\2d8d13238cddc4f6-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/37bad588f07b5abe-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\37bad588f07b5abe-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/3c21e30191f8a95f-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\3c21e30191f8a95f-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/4cf2300e9c8272f7-s.p.woff2
+File Name: D:\www.everyday.new\_next\static\media\4cf2300e9c8272f7-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/4cf2300e9c8272f7-s.p.woff2?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\media\4cf2300e9c8272f7-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/680d078f20ab2e33-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\680d078f20ab2e33-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/6bfd2bd251ab8942-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\6bfd2bd251ab8942-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/70965966495e534a-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\70965966495e534a-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/747892c23ea88013-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\747892c23ea88013-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/748b40310fafb33f-s.p.woff2
+File Name: D:\www.everyday.new\_next\static\media\748b40310fafb33f-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/748b40310fafb33f-s.p.woff2?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\media\748b40310fafb33f-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/8366fcf5b2045bf4-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\8366fcf5b2045bf4-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/86cdc03537aa61df-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\86cdc03537aa61df-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/8d697b304b401681-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\8d697b304b401681-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/93f479601ee12b01-s.p.woff2
+File Name: D:\www.everyday.new\_next\static\media\93f479601ee12b01-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/93f479601ee12b01-s.p.woff2?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\media\93f479601ee12b01-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/9610d9e46709d722-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\9610d9e46709d722-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/a22b1dc24103c00d-s.p.woff2
+File Name: D:\www.everyday.new\_next\static\media\a22b1dc24103c00d-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/a22b1dc24103c00d-s.p.woff2?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\media\a22b1dc24103c00d-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/a5b718c0e9721670-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\a5b718c0e9721670-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/ba015fad6dcf6784-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\ba015fad6dcf6784-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/cd7d68bc1c636df9-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\cd7d68bc1c636df9-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/cef605a1298d4ecf-s.p.woff2
+File Name: D:\www.everyday.new\_next\static\media\cef605a1298d4ecf-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/cef605a1298d4ecf-s.p.woff2?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\media\cef605a1298d4ecf-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/e37ba9c2d279ab80-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\e37ba9c2d279ab80-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/e701bb4d18c14ecc-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\e701bb4d18c14ecc-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/f073435cfc06d67c-s.woff2
+File Name: D:\www.everyday.new\_next\static\media\f073435cfc06d67c-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/f97596e9d457f191-s.p.woff2
+File Name: D:\www.everyday.new\_next\static\media\f97596e9d457f191-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://www.everyday.new/_next/static/media/f97596e9d457f191-s.p.woff2?dpl=dpl_7zUsXE3xF5Mn7KkWCFp4mUs7C382
+File Name: D:\www.everyday.new\_next\static\media\f97596e9d457f191-s.p.woff2
+Content Type: font/woff2
+
