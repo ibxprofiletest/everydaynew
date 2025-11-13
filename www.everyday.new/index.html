@@ -6,6 +6,7 @@
     meta.setAttribute('name', 'theme-color');
     document.head.appendChild(meta);
   }
+  
   function updateThemeColor() {
     var isDark = html.classList.contains('dark');
     meta.setAttribute('content', isDark ? 'hsl(240deg 10% 3.92%)' : 'hsl(0 0% 100%)');
