@@ -578,8 +578,7 @@
             }
           },
           A = (e) => {
-            let t = encodeURIComponent(E[e].label);
-            window.location.href = "/register?prompt=".concat(t);
+            window.open("https://www.everyday.new/register", "_blank");
           };
         return (0, s.jsx)("div", {
           className: "flex w-full h-full overflow-x-hidden pointer-events-none",
