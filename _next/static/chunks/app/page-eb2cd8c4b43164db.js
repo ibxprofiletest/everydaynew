@@ -304,7 +304,9 @@
                     size: "sm",
                     className: "text-sm rounded-full font-bold",
                     children: (0, s.jsx)("a", {
-                      href: "/register",
+                      href: "https://www.everyday.new/register",
+                      target: "_blank",
+                      rel: "noopener noreferrer",
                       children: "Get Started",
                     }),
                   }),
