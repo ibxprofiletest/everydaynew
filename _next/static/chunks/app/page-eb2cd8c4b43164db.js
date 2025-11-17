@@ -1311,13 +1311,13 @@
                 background:
                   "linear-gradient(to right, #f97316, #f97316, #f87171)",
               },
-              onClick: () => {
-                window.open(
-                  "https://www.producthunt.com/products/everyday-4",
-                  "_blank",
-                  "noopener,noreferrer"
-                );
-              },
+              // onClick: () => {
+              //   window.open(
+              //     "https://www.producthunt.com/products/everyday-4",
+              //     "_blank",
+              //     "noopener,noreferrer"
+              //   );
+              // },
               children: (0, s.jsx)("div", {
                 className: "max-w-7xl mx-auto flex items-center justify-center",
                 children: (0, s.jsxs)("div", {
@@ -1340,7 +1340,7 @@
                       children: [
                         (0, s.jsx)("span", {
                           className: "font-semibold tracking-tight sm:text-sm",
-                          children: "We are live on Product Hunt!",
+                          children: "Live on PumpFun.",
                         }),
                         (0, s.jsxs)("div", {
                           className: "flex items-center space-x-1",
@@ -1348,11 +1348,9 @@
                             (0, s.jsx)("span", {
                               className:
                                 "font-semibold tracking-tight sm:text-sm",
-                              children: "Check it out!",
+                              children: "CA: Coming Soon!",
                             }),
-                            (0, s.jsx)(en.A, {
-                              className: "w-3 h-3 sm:w-4 sm:h-4 font-semibold",
-                            }),
+                           
                           ],
                         }),
                       ],
