@@ -988,7 +988,7 @@
         K = a(63583),
         $ = a.n(K);
       let Q = {
-          twitterLink: "https://x.com/everydaydotnew",
+          twitterLink: "https://x.com/everydayapphq ",
           help: { faqs: "/faqs", support: "/support", livechat: "/live-chat" },
           contact: {
             email: "hi@everyday.new",
