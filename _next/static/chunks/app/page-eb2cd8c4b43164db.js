@@ -573,8 +573,7 @@
           }, []);
         let z = () => {
             if (e.trim()) {
-              let t = encodeURIComponent(e.trim());
-              window.location.href = "/register?prompt=".concat(t);
+              window.open("https://www.everyday.new/register", "_blank");
             }
           },
           A = (e) => {
@@ -1003,7 +1002,7 @@
             logo: "/logo.webp",
           },
         },
-        J = [{ icon: X.A, label: "Twitter", href: Q.twitterLink }];
+        J = [{ icon: X.A, label: "X", href: Q.twitterLink }];
       Q.help.faqs, Q.help.support, Q.help.livechat;
       let Z = [
         { icon: B.A, text: Q.contact.email },
