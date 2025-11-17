@@ -1371,14 +1371,7 @@
             target: "_blank",
             rel: "noopener noreferrer",
             className: "block transition-transform hover:scale-105",
-            children: (0, s.jsx)("img", {
-              src: "https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1021710&theme=light&period=daily&t=1759430857918",
-              alt: "Everyday - Get tasks done across apps with plain English | Product Hunt",
-              className:
-                "w-[200px] h-[43px] sm:w-[250px] sm:h-[54px] shadow-lg rounded-md",
-              width: "250",
-              height: "54",
-            }),
+            
           }),
         });
       }
