@@ -2078,8 +2078,7 @@
               if (t && a) t(s);
               else if (e && a) e(s);
               else {
-                let e = encodeURIComponent(s);
-                window.location.href = "/register?prompt=".concat(e);
+                window.open("https://www.everyday.new/register", "_blank");
               }
             },
             [e, t, a]
