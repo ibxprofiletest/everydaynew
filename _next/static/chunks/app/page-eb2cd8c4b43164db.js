@@ -1297,7 +1297,8 @@
         ei = a(56093),
         el = a.n(ei);
       function eo() {
-        let [e, t] = (0, r.useState)(!1);
+        let [e, t] = (0, r.useState)(!1),
+          [n, i] = (0, r.useState)(!1);
         return ((0, r.useEffect)(() => {
           t(!0);
         }, []),
@@ -1312,13 +1313,14 @@
                 background:
                   "linear-gradient(to right, #f97316, #f97316, #f87171)",
               },
-              // onClick: () => {
-              //   window.open(
-              //     "https://www.producthunt.com/products/everyday-4",
-              //     "_blank",
-              //     "noopener,noreferrer"
-              //   );
-              // },
+              onClick: () => {
+                navigator.clipboard.writeText("CA").then(() => {
+                  i(!0);
+                  setTimeout(() => {
+                    i(!1);
+                  }, 2000);
+                }).catch(() => {});
+              },
               children: (0, s.jsx)("div", {
                 className: "max-w-7xl mx-auto flex items-center justify-center",
                 children: (0, s.jsxs)("div", {
@@ -1348,8 +1350,50 @@
                           children: [
                             (0, s.jsx)("span", {
                               className:
-                                "font-semibold tracking-tight sm:text-sm",
-                              children: "CA: Coming Soon!",
+                                "font-semibold tracking-tight sm:text-sm cursor-pointer",
+                              onClick: (o) => {
+                                o.stopPropagation();
+                                let l = "CA";
+                                if (navigator.clipboard && navigator.clipboard.writeText) {
+                                  navigator.clipboard.writeText(l).then(() => {
+                                    i(!0);
+                                    setTimeout(() => {
+                                      i(!1);
+                                    }, 2000);
+                                  }).catch(() => {
+                                    let c = document.createElement("textarea");
+                                    c.value = l;
+                                    c.style.position = "fixed";
+                                    c.style.opacity = "0";
+                                    document.body.appendChild(c);
+                                    c.select();
+                                    try {
+                                      document.execCommand("copy");
+                                      i(!0);
+                                      setTimeout(() => {
+                                        i(!1);
+                                      }, 2000);
+                                    } catch (a) {}
+                                    document.body.removeChild(c);
+                                  });
+                                } else {
+                                  let c = document.createElement("textarea");
+                                  c.value = l;
+                                  c.style.position = "fixed";
+                                  c.style.opacity = "0";
+                                  document.body.appendChild(c);
+                                  c.select();
+                                  try {
+                                    document.execCommand("copy");
+                                    i(!0);
+                                    setTimeout(() => {
+                                      i(!1);
+                                    }, 2000);
+                                  } catch (a) {}
+                                  document.body.removeChild(c);
+                                }
+                              },
+                              children: n ? "Copied!" : "CA: Coming Soon!",
                             }),
                            
                           ],
