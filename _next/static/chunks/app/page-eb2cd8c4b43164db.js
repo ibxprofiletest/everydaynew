@@ -993,7 +993,7 @@
           twitterLink: "https://x.com/everydayapphq ",
           help: { faqs: "/faqs", support: "/support", livechat: "/live-chat" },
           contact: {
-            email: "hi@everyday.new",
+            email: "hello@everyday.onl",
             address:
               "2 Embarcadero Ctr, San Francisco, CA 94111, United States",
           },
